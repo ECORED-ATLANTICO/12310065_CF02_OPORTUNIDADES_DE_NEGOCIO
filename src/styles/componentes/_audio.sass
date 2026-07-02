@@ -148,3 +148,20 @@
           background-image: linear-gradient($color-acento-botones, $color-acento-botones)
     .tarjeta-audio__tiempo
       color: $color-acento-botones
+
+  &.color-white
+    border-color: $white
+    .tarjeta-audio__texto
+      color: $white
+    .tarjeta-audio__input
+      input[type=range]
+        background: rgba($white, 0.2)
+        &::-webkit-slider-runnable-track
+          background: rgba($white, 0.2)
+        &::-webkit-slider-thumb
+          background-color: $white
+        &::-moz-range-thumb
+          background-color: $white
+          background-image: linear-gradient($white, $white)
+    .tarjeta-audio__tiempo
+      color: $white
