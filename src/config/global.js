@@ -107,12 +107,51 @@ export default {
         numero: '4',
         titulo: 'Idea de negocio',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Concepto',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Características',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Formulación',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Innovación y emprendimiento',
+            hash: 't_4_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Tema 5',
+        titulo: 'Viabilidad',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Concepto',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Clasificación',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Aplicabilidad',
+            hash: 't_5_3',
+          },
+        ],
       },
     ],
     subMenu: [
