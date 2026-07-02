@@ -2,11 +2,16 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum.
-    .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+    .row.justify-content-center.align-items-center.z-2.mb-5
+      .col-sm-6.col-lg-3
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/sintesis.png", alt="")
+      .col-lg-9
+        p El componente formativo Identificación y aplicación de negocio aborda el estudio de la unidad administrativa, incluyendo su concepto, clasificación y estructura; continúa con la estructura organizacional, considerando su definición y tipologías; analiza los procesos y procedimientos administrativos, abarcando su concepto, clasificación y aplicabilidad; y profundiza en la idea de negocio, incluyendo su formulación, características e innovación. Asimismo, desarrolla la viabilidad desde sus diferentes enfoques, el plan de negocio como herramienta de estructuración empresarial y finaliza con el uso de paquetes ofimáticos y herramientas TIC para la gestión y presentación de la información en contextos reales.
+    .row.justify-content-center
+      .col-lg-12
+        figure
+          img.mb-5(src="@/assets/curso/sintesis.svg", alt="")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -40,13 +40,23 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Unidad administrativa',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Concepto',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Clasificación',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Estructura',
+            hash: 't_1_3',
           },
         ],
       },
@@ -54,7 +64,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Estructura organizacional',
         desarrolloContenidos: true,
       },
       {

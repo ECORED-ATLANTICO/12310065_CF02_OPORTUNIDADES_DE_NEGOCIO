@@ -54,36 +54,36 @@
       .p-4.p-lg-5
         SlyderA(tipo="b").bg-white.p-4.tarjeta
           .row.justify-content-center.align-items-center
-            .col-lg-8.mb-4.mb-md-0
+            .col-lg-7.mb-4.mb-lg-0
               h4 Estratégica
               p Corresponde al nivel más alto de la organización. Es responsable de definir la visión, misión, objetivos, políticas y estrategias que orientan el desarrollo de la empresa en el largo plazo. Sus decisiones tienen impacto global sobre la organización y buscan garantizar la sostenibilidad, el crecimiento y la competitividad del negocio.
               p #[strong Ejemplo]: gerencia general.
-            .col-lg-4
+            .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/tema1/5.png', alt='')
           .row.justify-content-center.align-items-center
-            .col-lg-8.mb-4.mb-md-0
+            .col-lg-7.mb-4.mb-lg-0
               h4 Táctica
               p Actúa como enlace entre el nivel estratégico y el operativo. Su función consiste en traducir las estrategias y políticas definidas por la alta dirección en planes, programas y proyectos específicos para cada área funcional de la organización.
               p #[strong Ejemplo]: dirección de mercadeo.
 
-            .col-lg-4
+            .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/tema1/6.png', alt='')
           .row.justify-content-center.align-items-center
-            .col-lg-8.mb-4.mb-md-0
+            .col-lg-7.mb-4.mb-lg-0
               h4 Operativa
               p Es el nivel encargado de ejecutar directamente las actividades y procesos necesarios para la producción de bienes o la prestación de servicios. Su trabajo se orienta al cumplimiento de tareas específicas que contribuyen al logro de los objetivos organizacionales.
               p #[strong Ejemplo]: área de ventas.
-            .col-lg-4
+            .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/tema1/7.png', alt='')
           .row.justify-content-center.align-items-center
-            .col-lg-8.mb-4.mb-md-0
+            .col-lg-7.mb-4.mb-lg-0
               h4 De apoyo
               p Son las áreas que brindan soporte especializado a las unidades estratégicas, tácticas y operativas para facilitar el funcionamiento integral de la organización. Aunque no participan directamente en la generación del producto o servicio principal, contribuyen al cumplimiento de los objetivos empresariales mediante la provisión de recursos y servicios internos.
               p #[strong Ejemplo]: recursos humanos, contabilidad.
-            .col-lg-4
+            .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/tema1/8.png', alt='')
 
@@ -98,8 +98,33 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3 Estructura
 
+    .fullwidth-bg.fullwidth-bg--1
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-lg-8
+        p La estructura de una unidad administrativa hace referencia a la forma en que se organizan los recursos humanos, tecnológicos y materiales para cumplir funciones específicas. Esta estructura se define a través de jerarquías, líneas de autoridad y niveles de responsabilidad.
+        .cajon.color-primario.p-4.mb-4
+          p.mb-0 Una estructura bien diseñada permite claridad en roles, evita conflictos organizacionales y mejora la eficiencia en la ejecución de procesos. En entornos empresariales, la estructura puede ser vertical (jerárquica), horizontal (colaborativa) o mixta, dependiendo del modelo de gestión adoptado.
+      .col-sm-8.col-lg-4
+        figure
+          img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema1/2.png", alt="")
     
-    
+    .row.align-items-center.justify-content-center
+      .col-sm-8.col-lg-4.mb-3.mb-lg-0.d-none.d-lg-block
+        figure
+          img(src="@/assets/curso/tema1/12.png", data-aos="zoom-in")
+      .col-lg-8
+        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-primario-p10")
+          div(titulo="Jerarquía")
+            p.ms-5 Es la disposición ordenada de los niveles de autoridad dentro de una unidad administrativa. Establece quién dirige, supervisa y toma decisiones, así como las relaciones de dependencia entre los diferentes cargos y áreas. Su propósito es facilitar la coordinación, el control y la asignación de responsabilidades dentro de la organización.
+          div(titulo="Funciones")
+            p.ms-5 Corresponden al conjunto de actividades, tareas y responsabilidades asignadas a cada cargo o área dentro de la unidad administrativa. Estas permiten distribuir el trabajo de manera organizada y asegurar el cumplimiento de los objetivos institucionales. 
+          div(titulo="Responsabilidad")
+            p.ms-5 Es el compromiso que asumen las personas o áreas para cumplir las funciones asignadas y responder por los resultados obtenidos. Implica actuar de manera ética, eficiente y conforme a las políticas y objetivos de la organización. 
+          div(titulo="Comunicación")
+            p.ms-5 Es el proceso mediante el cual se intercambia información entre las personas, áreas y niveles jerárquicos de la organización. Permite coordinar actividades, transmitir instrucciones, compartir conocimientos y facilitar la toma de decisiones.
+
+    .cajon.color-acento-botones.p-4.mb-4
+      p.mb-0 Empresas como Bancolombia utilizan estructuras organizacionales mixtas que combinan jerarquía con trabajo colaborativo, facilitando la innovación y la eficiencia operativa.
 
 </template>
 

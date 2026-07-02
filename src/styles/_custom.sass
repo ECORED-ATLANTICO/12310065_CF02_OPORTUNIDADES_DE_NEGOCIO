@@ -51,15 +51,18 @@ figcaption, table caption
 
 .banner-interno__fondo
   background-image: url("../assets/curso/banner_interno.png") !important
-  background-color: $color-primario !important
+  background-color: $color-secundario !important
 .banner-principal .tarjeta
   @media screen and (max-width: $bp-max-md)
     background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
   @media screen and (max-width: $bp-max-xs)
     background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
 
-.text-end 
-    text-align: left !important
+.text-start
+  text-align: left !important
+
+.texto-oscuro
+  color: $color-sistema-texto !important
 
 .fullwidth-bg
   display: none
@@ -104,7 +107,10 @@ figcaption, table caption
     margin-top: -80px
 
 .bg-fondo-slider
-  background: url('../assets/curso/common/bg-slider.png') no-repeat center center
+  background: url('../assets/curso/common/bg-slider.png')
+  background-size: cover
+  background-position: left center
+  background-repeat: no-repeat
 
 .slyder-a__bullets__item 
   background-color: #CDD5F2
@@ -122,3 +128,26 @@ figcaption, table caption
   background-repeat: no-repeat
   background-position: center
   background-size: cover
+
+/////////////ACORDION/////////////
+.acordion__accion__btn--a
+  background-color: #FFD256 !important
+.acordion__activo
+  background-color: #EDEDED !important
+.acordion_titulo
+  color: #fff !important
+.acordion__titulo 
+  h3
+    color: $color-sistema-texto  !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
+
+.tabla-a
+  &--text-left
+    td
+      text-align: left !important
+    thead
+      td
+        text-align: center !important
