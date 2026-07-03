@@ -11,7 +11,7 @@
     .row.justify-content-center
       .col-lg-12
         figure
-          img.mb-5(src="@/assets/curso/sintesis.svg", alt="")
+          img.mb-5(src="@/assets/curso/sintesis.svg", alt="El componente formativo Identificación y aplicación de negocio aborda el estudio de la unidad administrativa, incluyendo su concepto, clasificación y estructura; continúa con la estructura organizacional, considerando su definición y tipologías; analiza los procesos y procedimientos administrativos, abarcando su concepto, clasificación y aplicabilidad; y profundiza en la idea de negocio, incluyendo su formulación, características e innovación. Asimismo, desarrolla la viabilidad desde sus diferentes enfoques, el plan de negocio como herramienta de estructuración empresarial y finaliza con el uso de paquetes ofimáticos y herramientas TIC para la gestión y presentación de la información en contextos reales.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

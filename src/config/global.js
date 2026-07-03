@@ -247,14 +247,123 @@ export default {
   },
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Actividad',
+      significado:
+        'Conjunto de acciones que se desarrollan para cumplir un objetivo dentro de un proceso empresarial.',
+    },
+    {
+      termino: 'Administración',
+      significado:
+        'Proceso de planear, organizar, dirigir y controlar los recursos de una organización.',
+    },
+    {
+      termino: 'Aplicabilidad',
+      significado:
+        'Capacidad de un concepto o herramienta para ser utilizado en un contexto real.',
+    },
+    {
+      termino: 'Estructura organizacional',
+      significado:
+        'Forma en que se distribuyen funciones, responsabilidades y niveles jerárquicos dentro de una empresa.',
+    },
+    {
+      termino: 'Idea de negocio',
+      significado:
+        'Propuesta que busca satisfacer una necesidad del mercado mediante un producto o servicio.',
+    },
+    {
+      termino: 'Innovación',
+      significado:
+        'Introducción de mejoras o nuevas ideas en productos, servicios o procesos.',
+    },
+    {
+      termino: 'Organización',
+      significado:
+        'Sistema estructurado de personas y recursos orientados al cumplimiento de objetivos.',
+    },
+    {
+      termino: 'Plan de negocio',
+      significado:
+        'Documento que describe los aspectos fundamentales de una idea empresarial y su viabilidad.',
+    },
+    {
+      termino: 'Procedimiento',
+      significado:
+        'Conjunto de pasos definidos para realizar una actividad de manera ordenada.',
+    },
+    {
+      termino: 'Proceso',
+      significado:
+        'Secuencia de actividades relacionadas que generan un resultado específico.',
+    },
+    {
+      termino: 'Producto',
+      significado:
+        'Bien o servicio que se ofrece en el mercado para satisfacer una necesidad.',
+    },
+    {
+      termino: 'Recursos',
+      significado:
+        'Elementos humanos, financieros, tecnológicos y materiales utilizados en una organización.',
+    },
+    {
+      termino: 'Servicio',
+      significado:
+        'Actividad intangible que satisface necesidades del cliente.',
+    },
+    {
+      termino: 'TIC',
+      significado:
+        'Tecnologías de la información y la comunicación utilizadas para gestionar y procesar información.',
+    },
+    {
+      termino: 'Unidad administrativa',
+      significado:
+        'Área o dependencia encargada de cumplir funciones específicas dentro de una organización.',
+    },
+    {
+      termino: 'Viabilidad',
+      significado:
+        'Posibilidad de que una idea de negocio sea factible desde el punto de vista técnico, económico y operativo.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Alcaraz Rodríguez, R. (2011). <em>El emprendedor de éxito</em>.',
+      link:
+        'https://apiperiodico.jalisco.gob.mx/api/sites/periodicooficial.jalisco.gob.mx/files/el_emprendedor_de_exito-_rafael_alcaraz_rodriguez.pdf',
+    },
+    {
+      referencia:
+        'Baca Urbina, G. (2010). <em>Evaluación de proyectos</em>. McGraw-Hill.',
       link: '',
+    },
+    {
+      referencia:
+        'Hisrich, R., Peters, M., & Shepherd, D. (2011). <em>Emprendimiento</em> (9.ª ed.). McGraw-Hill.',
+      link: '',
+    },
+    {
+      referencia: 'JICA. (s. f.). <em>Manual de emprendedorismo</em>.',
+      link:
+        'https://www.jica.go.jp/paraguay/espanol/office/others/c8h0vm0000ad5gke-att/info_11_01.pdf',
+    },
+    {
+      referencia:
+        'Osterwalder, A., & Pigneur, Y. (2010). <em>Generación de modelos de negocio</em>.',
+      link:
+        'https://www.camarabaq.org.co/wp-content/uploads/2020/11/Generacion-de-Modelos-de-Negocio-2010.en_.es_.pdf',
+    },
+    {
+      referencia:
+        'Robbins, S. P., & Coulter, M. (2014). <em>Administración</em> (12.ª ed.). Pearson.',
+      link: '',
+    },
+    {
+      referencia:
+        'Universidad del Valle de Atemajac. (s. f.). <em>Emprendimiento e innovación</em>.',
+      link: 'https://biblioteca.univa.mx/Investigacion/Libros/113815.pdf',
     },
   ],
   creditos: [

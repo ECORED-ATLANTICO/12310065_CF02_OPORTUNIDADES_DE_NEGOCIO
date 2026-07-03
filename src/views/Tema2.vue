@@ -46,7 +46,7 @@
               h5 #[em Apple’s Organizational Structure & Its Characteristics (An Analysis)]
               p.mb-4.mb-lg-0 Para profundizar en la aplicación real de la estructura organizacional en empresas globales (Apple), se invita al aprendiz a consultar el siguiente recurso:
             .col-sm-4.col-lg-3
-              a.boton.me-3.mb-4.text-center(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.me-3.mb-4.text-center(href="https://panmore.com/apple-inc-organizational-structure-features-pros-cons" target="_blank")
                 span.texto-oscuro Abrir enlace
                 i.fas.fa-link.ms-2.texto-oscuro
           
@@ -107,7 +107,7 @@
           span Clasificación de la estructura organizacional
         .tabla-a.color-terciario.tabla-a--text-left
           table
-            caption Nota. Adaptada David, (2020).
+            caption Nota. SENA, (2026). 
             thead
               tr(style="background-color: #FAD5ED")
                 th Tipo de estrctura
@@ -117,7 +117,7 @@
             tbody
               tr
                 td Funcional
-                td Agrupa por áreas (ventas, finanzas, marketing)
+                td Agrupa por áreas (ventas, finanzas, #[em marketing])
                 td Especialización
                 td Empresas tradicionales
               tr
@@ -125,15 +125,30 @@
                 td Organiza por productos o mercados
                 td Enfoque estratégico
                 td Multinacionales
+              tr
+                td Matricial 
+                td Combina funciones y proyectos 
+                td Flexibilidad 
+                td Empresas tecnológicas 
+              tr
+                td Horizontal 
+                td Reduce niveles jerárquicos 
+                td Agilidad 
+                td #[em Startups] 
+              tr
+                td Lineal 
+                td Autoridad directa y clara 
+                td Control simple 
+                td Pequeñas empresas 
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Estructuras organizacionales 
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/6-mob.png", alt="")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/6.png", alt="")
-        figcaption <strong>Fuente:</strong> SENA, 2026
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/6-mob.png", alt="La figura describe las estructuras organizacionales; presentando cinco tipos: estructura lineal, en la que un director supervisa directamente a los empleados; estructura funcional, que organiza el trabajo en áreas especializadas como producción, finanzas y marketing; estructura lineal y de staff, que incorpora personal asesor para apoyar la toma de decisiones; estructura con comités, que complementa la dirección mediante grupos de apoyo y asesoría; y estructura lineal y funcional, que combina la autoridad jerárquica con áreas especializadas como producción, finanzas, marketing, recursos humanos y sistemas. Cada esquema ilustra las relaciones de autoridad, coordinación y distribución de funciones dentro de la organización.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/6.png", alt="La figura describe las estructuras organizacionales; presentando cinco tipos: estructura lineal, en la que un director supervisa directamente a los empleados; estructura funcional, que organiza el trabajo en áreas especializadas como producción, finanzas y marketing; estructura lineal y de staff, que incorpora personal asesor para apoyar la toma de decisiones; estructura con comités, que complementa la dirección mediante grupos de apoyo y asesoría; y estructura lineal y funcional, que combina la autoridad jerárquica con áreas especializadas como producción, finanzas, marketing, recursos humanos y sistemas. Cada esquema ilustra las relaciones de autoridad, coordinación y distribución de funciones dentro de la organización.")
+        figcaption Nota. SENA, (2026). 
 
     .row.align-items-center.z-2.bg-img.rounded-4.p-4.mb-4.mb-lg-5
       .d-none.d-lg-block.col-lg-1
@@ -167,7 +182,7 @@
                   | Importancia en la gestión empresarial.
 
             .col-sm-4.col-lg-3
-              a.boton.me-3.mb-4.text-center(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=NpsflJIWNIg" target="_blank")
                 span.texto-oscuro Ver video
                 i.fas.fa-video.ms-2.texto-oscuro
 

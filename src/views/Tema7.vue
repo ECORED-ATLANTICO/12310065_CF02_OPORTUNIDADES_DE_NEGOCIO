@@ -43,26 +43,65 @@
     #t_7_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 7.2 Clasificación
 
-    p Las herramientas ofimáticas y TIC pueden clasificarse según su función dentro de la organización, lo que permite identificar su utilidad en diferentes procesos empresariales.
+    p.mb-4 Las herramientas ofimáticas y TIC pueden clasificarse según su función dentro de la organización, lo que permite identificar su utilidad en diferentes procesos empresariales.
 
-    .row.justify-content-center.align-items-center.z-2.mb-4
-      .col-sm-8.col-lg-4
-        figure
-          img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema7/4.png", alt="")
-      .col-lg-8
-        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-primario-p10")
-          div(titulo=" Procesadores de texto")
-            p.ms-5 Permiten crear, editar y dar formato a documentos escritos, facilitando la elaboración de informes, cartas y documentos empresariales.
-          div(titulo="Hojas de cálculo")
-            p.ms-5 Facilitan el análisis, organización y gestión de datos mediante fórmulas, tablas y gráficos, apoyando la toma de decisiones.
-          div(titulo="Presentaciones")
-            p.ms-5 Permiten comunicar información de manera visual y estructurada, apoyando exposiciones y procesos formativos o empresariales.
-          div(titulo="Sistemas de gestión (<em>software</em>)")
-            p.ms-5 Integran y automatizan procesos empresariales como ventas, inventarios, finanzas y recursos humanos en una sola plataforma.
-          div(titulo="Herramientas de análisis")
-            p.ms-5 Permiten interpretar grandes volúmenes de datos mediante indicadores, reportes y paneles de control (dashboards).
-          div(titulo="Comunicación digital")
-            p.ms-5 Facilitan la interacción y el intercambio de información en tiempo real dentro y fuera de la organización.
+    //- .row.justify-content-center.align-items-center.z-2.mb-4
+    //-   .col-sm-8.col-lg-4
+    //-     figure
+    //-       img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema7/4.png", alt="")
+    //-   .col-lg-8
+    //-     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-primario-p10")
+    //-       div(titulo=" Procesadores de texto")
+    //-         p.ms-5 Permiten crear, editar y dar formato a documentos escritos, facilitando la elaboración de informes, cartas y documentos empresariales.
+    //-       div(titulo="Hojas de cálculo")
+    //-         p.ms-5 Facilitan el análisis, organización y gestión de datos mediante fórmulas, tablas y gráficos, apoyando la toma de decisiones.
+    //-       div(titulo="Presentaciones")
+    //-         p.ms-5 Permiten comunicar información de manera visual y estructurada, apoyando exposiciones y procesos formativos o empresariales.
+    //-       div(titulo="Sistemas de gestión (<em>software</em>)")
+    //-         p.ms-5 Integran y automatizan procesos empresariales como ventas, inventarios, finanzas y recursos humanos en una sola plataforma.
+    //-       div(titulo="Herramientas de análisis")
+    //-         p.ms-5 Permiten interpretar grandes volúmenes de datos mediante indicadores, reportes y paneles de control (dashboards).
+    //-       div(titulo="Comunicación digital")
+    //-         p.ms-5 Facilitan la interacción y el intercambio de información en tiempo real dentro y fuera de la organización.
+
+    .row.justify-content-center.z-2.mb-4.mb-lg-5
+      .col-xl-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Tabla 4.
+          span Clasificación de herramientas TIC
+        .tabla-a.color-terciario.tabla-a--text-left
+          table
+            caption Nota. SENA, (2026). 
+            thead
+              tr(style="background-color: #FAD5ED")
+                th Tipo
+                th(colspan="2") Descripción
+                th Ejemplo
+            tbody
+              tr
+                td Procesadores de texto 
+                td(colspan="2") Permiten crear, editar y dar formato a documentos escritos, facilitando la elaboración de informes, cartas y documentos empresariales. 
+                td Word 
+              tr
+                td Hojas de cálculo 
+                td(colspan="2") Facilitan el análisis, organización y gestión de datos mediante fórmulas, tablas y gráficos, apoyando la toma de decisiones. 
+                td Excel 
+              tr
+                td Presentaciones
+                td(colspan="2") Permiten comunicar información de manera visual y estructurada, apoyando exposiciones y procesos formativos o empresariales.
+                td PowerPoint
+              tr
+                td Sistemas de gestión (software)
+                td(colspan="2") Integran y automatizan procesos empresariales como ventas, inventarios, finanzas y recursos humanos en una sola plataforma.
+                td ERP
+              tr
+                td Herramientas de análisis
+                td(colspan="2") Permiten interpretar grandes volúmenes de datos mediante indicadores, reportes y paneles de control (dashboards).
+                td Business intelligence
+              tr
+                td Comunicación digital
+                td(colspan="2") Facilitan la interacción y el intercambio de información en tiempo real dentro y fuera de la organización.
+                td Correo, videollamadas
 
     .row.justify-content-center
       .col-lg-10
@@ -82,7 +121,7 @@
         p La aplicabilidad de los paquetes ofimáticos y herramientas TIC se evidencia en su uso diario dentro de las organizaciones para gestionar información, optimizar procesos y apoyar la toma de decisiones.
         p.mb-0 En el contexto empresarial, estas herramientas permiten:
 
-    .row.mb-3.z-2
+    .row.mb-4.z-2
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
         .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
           .tarjeta-avatar-b__img
@@ -113,9 +152,9 @@
               p.mb-0 Gestionar información en tiempo real.
 
     .cajon.color-acento-botones.p-4.z-2.mb-4
-      p.mb-0 Además, la integración de herramientas como Excel, sistemas ERP y plataformas de B usiness intelligence permite a las empresas transformar datos en información estratégica.
+      p.mb-0 Además, la integración de herramientas como Excel, sistemas ERP y plataformas de #[em Business intelligence] permite a las empresas transformar datos en información estratégica.
 
-    .row.justify-content-center.align-items-center.z-2.mb-5
+    .row.justify-content-center.align-items-center.z-2.mb-4
       .col-lg-7
         .row.align-items-center.z-2.bg-img.bg-img--1.rounded-4.p-4.mb-4
           .d-none.d-lg-block.col-lg-2
@@ -123,7 +162,7 @@
               img.w-55(data-aos="fade-down", src="@/assets/curso/tema1/9.svg", alt="")
           .col-lg-11.col-xl-10
             p.mb-0 En una tienda de artesanías, el uso de hojas de cálculo permite controlar inventarios, mientras que sistemas digitales facilitan el registro de ventas y el análisis del comportamiento del cliente.
-        p Entre los beneficios de las herramientas TIC están: 
+        p.mb-0 Entre los beneficios de las herramientas TIC están: 
       .col-lg-5
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema7/7.png", alt="")
@@ -171,7 +210,7 @@
               h5.my-3 ¿Cómo beneficia la tecnología a mi negocio?
               p.mb-2 Ir al siguiente video donde se explican el uso de herramientas TIC en la gestión empresarial y su impacto en la productividad. El video permite comprender cómo la tecnología optimiza procesos y mejora la toma de decisiones en las organizaciones:
             .col-sm-4.col-lg-3
-              a.boton.me-3.mb-4.text-center(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=u25nYLn3toE" target="_blank")
                 span.texto-oscuro Ver video
                 i.fas.fa-video.ms-2.texto-oscuro
 
@@ -188,11 +227,10 @@
             h5.text-white ¿Sabías qué?
             p.text-white Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-white.mb-3(
-              texto="Analítica web: concepto, herramientas y metodología."
+              texto="“Charlas que venden” tema: “El uso de las TIC y herramientas ofimáticas en la gestión empresarial”"
               :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
-
 
 </template>
 

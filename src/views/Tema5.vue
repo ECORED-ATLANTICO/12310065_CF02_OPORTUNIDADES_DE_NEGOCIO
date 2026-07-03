@@ -50,10 +50,10 @@
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 3.
-          span Estrategias DOFA aplicadas a empresas digitales
+          span Tipos de viabilidad
         .tabla-a.color-terciario.tabla-a--text-left
           table
-            caption Nota. Adaptada David, (2020).
+            caption Nota. SENA, (2026). 
             thead
               tr(style="background-color: #FAD5ED")
                 th Tipo de viabilidad
@@ -71,6 +71,21 @@
                 td Evalúa la capacidad de producir o ejecutar la idea
                 td Recursos y tecnología
                 td Infraestructura productiva
+              tr
+                td Financiera
+                td Determina la rentabilidad y costos
+                td Inversión y retorno
+                td Flujo de caja
+              tr
+                td Operativa
+                td Analiza la capacidad de funcionamiento diario
+                td Procesos y logística
+                td Distribución
+              tr
+                td Legal
+                td Verifica cumplimiento normativo
+                td Regulación
+                td Licencias y permisos
 
     .row.align-items-center.z-2.bg-img.rounded-4.p-4
       .d-none.d-lg-block.col-lg-1
@@ -83,7 +98,7 @@
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.3 Aplicabilidad
 
-    .row.justify-content-center.align-items-center.z-2
+    .row.justify-content-center.align-items-center.z-2.mb-4
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema5/4.png", alt="")
@@ -91,7 +106,7 @@
         p La aplicabilidad de la viabilidad se evidencia en la toma de decisiones empresariales, ya que permite determinar si una idea debe desarrollarse, ajustarse o descartarse. En la práctica, las organizaciones utilizan estudios de viabilidad para minimizar riesgos, optimizar recursos y asegurar que el negocio tenga posibilidades reales de éxito. Este proceso se apoya en herramientas tecnológicas como hojas de cálculo, sistemas ERP y plataformas de análisis financiero que facilitan la evaluación de escenarios.
         p.mb-0 Además, la viabilidad es clave en la formulación de planes de negocio, ya que proporciona información objetiva sobre el mercado, los costos, la competencia y las condiciones del entorno.
 
-    .cajon.color-acento-botones.p-4.mb-5
+    .cajon.color-acento-botones.p-4.mb-4
       p.mb-0 En Tesla, la viabilidad de vehículos eléctricos se analizó considerando factores técnicos (baterías), financieros (inversión) y comerciales (tendencia hacia energías limpias). El pantallazo evidencia cómo la empresa comunica los pilares de su viabilidad estratégica: 
 
     .row.justify-content-center.mb-5
@@ -133,7 +148,7 @@
               h5.my-3 Cómo evaluar la viabilidad de una idea de negocio utilizando la “matriz estrella”
               p.mb-2 Ir al siguiente video que explica cómo evaluar la viabilidad de una idea de negocio utilizando la “matriz estrella”, analizando cinco dimensiones clave para reducir el riesgo de fracaso antes de invertir tiempo y dinero:
             .col-sm-4.col-lg-3
-              a.boton.me-3.mb-4.text-center(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=GbK-NGyTz9A" target="_blank")
                 span.texto-oscuro Ver video
                 i.fas.fa-video.ms-2.texto-oscuro
 

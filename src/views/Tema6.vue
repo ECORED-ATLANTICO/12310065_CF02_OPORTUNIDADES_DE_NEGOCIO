@@ -49,9 +49,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 4.
           span Estructura básica del plan de negocios
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema6/5-mob.png", alt="")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema6/5.png", alt="")
-        figcaption Nota. Adaptada de Malhotra, (2008).
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema6/5-mob.png", alt="La figura describe los seis componentes esenciales de un plan de negocios; los cales son: Resumen ejecutivo, que sintetiza la idea, objetivos y propuesta de valor. Análisis de mercado, que estudia clientes, competencia y entorno; Plan de marketing, que define estrategias comerciales; Plan operativo, que describe procesos, recursos y logística; Plan financiero, que evalúa inversión, costos, ingresos y rentabilidad; y Aspectos legales, que contemplan requisitos normativos y obligaciones jurídicas. Cada componente está identificado con un número e iconos representativos. El mensaje final destaca que un plan de negocios bien estructurado favorece el éxito empresarial.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema6/5.png", alt="La figura describe los seis componentes esenciales de un plan de negocios; los cales son: Resumen ejecutivo, que sintetiza la idea, objetivos y propuesta de valor. Análisis de mercado, que estudia clientes, competencia y entorno; Plan de marketing, que define estrategias comerciales; Plan operativo, que describe procesos, recursos y logística; Plan financiero, que evalúa inversión, costos, ingresos y rentabilidad; y Aspectos legales, que contemplan requisitos normativos y obligaciones jurídicas. Cada componente está identificado con un número e iconos representativos. El mensaje final destaca que un plan de negocios bien estructurado favorece el éxito empresarial.")
+        figcaption Nota. SENA, 2026. 
 
     .row.justify-content-center.z-2
       .col-xl-10
@@ -64,7 +64,7 @@
               h5.my-3 Cómo evaluar la viabilidad de una idea de negocio utilizando la “matriz estrella”
               p.mb-3 Ir al siguiente video que explica cómo evaluar la viabilidad de una idea de negocio utilizando la “matriz estrella”, analizando cinco dimensiones clave para reducir el riesgo de fracaso antes de invertir tiempo y dinero:
             .col-sm-4.col-lg-3
-              a.boton.me-3.mb-4.text-center(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=tTvfzqu422w" target="_blank")
                 span.texto-oscuro Ver video
                 i.fas.fa-video.ms-2.texto-oscuro
 

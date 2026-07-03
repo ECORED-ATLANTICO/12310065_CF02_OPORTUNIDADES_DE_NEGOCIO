@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Procesos y procedimientos administrativos 
 
     .fullwidth-bg.fullwidth-bg--1
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
@@ -52,7 +52,7 @@
               h5.my-4 Diferencias entre Proceso y Procedimiento
               p.mb-4 Se invita al aprendiz a ver el video con el propósito de identificar diferencias clave entre los términos fundamentales proceso y procedimiento y cómo se aplican en la operación y organización de una empresa. 
             .col-sm-4.col-lg-3
-              a.boton.me-3.mb-4.text-center(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=ygKbmeD6sdg" target="_blank" type="application/pdf")
                 span.texto-oscuro Ver video
                 i.fas.fa-video.ms-2.texto-oscuro
 
@@ -60,7 +60,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2 Clasificación
 
-    .row.justify-content-center.align-items-center.z-2
+    .row.justify-content-center.align-items-center.z-2.mb-4
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema3/4.png", alt="")
@@ -74,7 +74,7 @@
           span Clasificación de procesos administrativos
         .tabla-a.color-terciario.tabla-a--text-left
           table
-            caption Nota. Adaptada David, (2020).
+            caption Nota. SENA, (2026). 
             thead
               tr(style="background-color: #FAD5ED")
                 th Tipo de proceso
@@ -92,6 +92,21 @@
                 td Generan valor directo al cliente
                 td Operación principal
                 td Producción o ventas
+              tr
+                td De apoyo 
+                td Respaldan los procesos principales. 
+                td Soporte interno 
+                td Recursos humanos 
+              tr
+                td De control 
+                td Evalúan desempeño y cumplimiento. 
+                td Supervisión 
+                td Auditorías internas 
+              tr
+                td De mejora 
+                td Buscan optimización continua. 
+                td Innovación 
+                td Rediseño de procesos 
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-8
@@ -171,7 +186,7 @@
               h5.my-4 ¿Qué es un diagrama de flujo?
               p.mb-4 Se invita al aprendiz a profundizar en el uso de los diagramas de flujo como herramienta clave en la gestión de procesos administrativos, a través del siguiente recurso:
             .col-sm-4.col-lg-3
-              a.boton.me-3.mb-4.text-center(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.me-3.mb-4.text-center(href="https://www.webyempresas.com/diagrama-de-flujo-de-las-4-etapas-del-proceso-administrativo/?utm_source=chatgpt.com#%C2%BFQue_es_un_diagrama_de_flujo" target="_blank")
                 span.texto-oscuro Abrir enlace
                 i.fas.fa-link.ms-2.texto-oscuro
 

@@ -50,17 +50,17 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
-          span Idea de negocio: características clave describe 
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/4-mob.png", alt="")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/4.png", alt="")
-        figcaption Nota. Adaptada de Malhotra, (2008).
+          span Idea de negocio: características clave 
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/4-mob.png", alt="La figura describe las características clave de una idea de negocio, las cuales están representadas como un proceso de cinco etapas. Explica que una idea de negocio debe ser innovadora, aportando valor y diferenciación; viable, al poder ejecutarse con recursos humanos, técnicos y financieros disponibles; rentable, generando beneficios económicos sostenibles; escalable, permitiendo crecer en el mercado sin aumentar proporcionalmente los costos; y pertinente, al responder a necesidades reales de los clientes o del entorno. Cada etapa está identificada con un número, un icono representativo y una flecha que muestra la secuencia del proceso.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/4.png", alt="La figura describe las características clave de una idea de negocio, las cuales están representadas como un proceso de cinco etapas. Explica que una idea de negocio debe ser innovadora, aportando valor y diferenciación; viable, al poder ejecutarse con recursos humanos, técnicos y financieros disponibles; rentable, generando beneficios económicos sostenibles; escalable, permitiendo crecer en el mercado sin aumentar proporcionalmente los costos; y pertinente, al responder a necesidades reales de los clientes o del entorno. Cada etapa está identificada con un número, un icono representativo y una flecha que muestra la secuencia del proceso.")
+        figcaption Nota. SENA, (2026). 
 
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-sm-10.col-lg-5
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema4/5.png", alt="")
       .col-lg-7
-        p Spotify segmenta a sus usuarios teniendo en cuenta la edad, gustos musicales, hábitos de escucha y tipo de suscripción (gratuita o premium). Gracias a esta segmentación, la plataforma puede enviar recomendaciones personalizadas, generar playlists adaptadas a cada perfil y ofrecer promociones específicas que fomenten la suscripción premium y el engagement de los usuarios.
+        p.mb-0 Netflix transformó el consumo de entretenimiento al ofrecer contenido bajo demanda, demostrando innovación y escalabilidad. Las características de una idea de negocio determinan su capacidad de competir, crecer y mantenerse en el mercado. 
 
     .cajon.color-acento-botones.p-4
       p.mb-0 Esta captura de pantalla de la interfaz de Netflix que ilustra su modelo de negocio de contenido bajo demanda. Se observa la sección de tendencias con un carrusel numerado del 1 al 6 que muestra títulos globales, demostrando el uso de algoritmos para personalizar la experiencia del usuario. Debajo, la sección “Más motivos para unirte” destaca la escalabilidad técnica del servicio al ser compatible con múltiples dispositivos como Smart TV, consolas de videojuegos y reproductores de streaming.
@@ -167,7 +167,7 @@
                   | Relación entre innovación, competitividad y crecimiento.
 
             .col-sm-4.col-lg-3
-              a.boton.me-3.mb-4.text-center(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=Zz9pbQKcgcE" target="_blank")
                 span.texto-oscuro Ver video
                 i.fas.fa-video.ms-2.texto-oscuro
 
@@ -184,7 +184,7 @@
             h5.text-white ¿Sabías qué?
             p.text-white Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-white.mb-3(
-              texto="Analítica web: concepto, herramientas y metodología."
+              texto="“Charlas que venden” tema: “La idea de negocio como base del desarrollo empresarial”"
               :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
