@@ -160,10 +160,6 @@
           img.mb-0.w-85(data-aos="fade-down", src="@/assets/curso/tema3/12.png", alt="")
         p.mb-0 #[strong Calidad]: mejora en los productos y servicios ofrecidos.
 
-
-
-
-
     .row.justify-content-center.z-2.mb-4.mb-lg-5
       .col-xl-10
         .p-3.py-1.bg-primario-p10.rounded-4

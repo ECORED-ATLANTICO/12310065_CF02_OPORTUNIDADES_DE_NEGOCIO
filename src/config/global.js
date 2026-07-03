@@ -153,6 +153,29 @@ export default {
           },
         ],
       },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Información para la toma de decisiones',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Concepto',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Estructura',
+            hash: 't_6_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Aplicabilidad',
+            hash: 't_5_3',
+          },
+        ],
+      },
     ],
     subMenu: [
       {
