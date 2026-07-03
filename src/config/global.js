@@ -170,9 +170,32 @@ export default {
             hash: 't_6_2',
           },
           {
-            numero: '5.3',
+            numero: '6.3',
+            titulo: 'Ejemplo',
+            hash: 't_6_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Paquetes ofimáticos y herramientas TIC',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: 'Concepto',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: 'Clasificación',
+            hash: 't_7_2',
+          },
+          {
+            numero: '7.3',
             titulo: 'Aplicabilidad',
-            hash: 't_5_3',
+            hash: 't_7_3',
           },
         ],
       },
@@ -222,14 +245,6 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
-    },
-  ],
   glosario: [
     {
       termino: '',

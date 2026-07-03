@@ -84,6 +84,8 @@ figcaption, table caption
   //   position: absolute
   //   content: url('../assets/curso/common/bg-2.png')
 
+.w-55
+  max-width: 55px
 .w-85
   max-width: 85px
 .w-195
@@ -133,6 +135,9 @@ figcaption, table caption
   background-repeat: no-repeat
   background-position: center
   background-size: cover
+  &--1
+    background-image: url('../assets/curso/tema7/13.png')
+
 
 /////////////ACORDION/////////////
 .acordion__accion__btn--a
@@ -192,3 +197,12 @@ figcaption, table caption
     .crd_hover_txt--body
       p
         font-size: 0.85em
+
+//////////////CUSTOM AVATAR-LEFT//////////////
+.tarjeta-avatar-b__img
+  min-width: 25%
+  @media screen and ( max-width: $bp-max-sm )
+    min-width: auto
+.tarjeta--azul 
+  background-color: #F0F3FD
+  border: 3px solid #C2D0F8
