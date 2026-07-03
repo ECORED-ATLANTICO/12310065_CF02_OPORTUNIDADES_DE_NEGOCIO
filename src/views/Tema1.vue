@@ -115,13 +115,13 @@
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-primario-p10")
           div(titulo="Jerarquía")
-            p.ms-5 Es la disposición ordenada de los niveles de autoridad dentro de una unidad administrativa. Establece quién dirige, supervisa y toma decisiones, así como las relaciones de dependencia entre los diferentes cargos y áreas. Su propósito es facilitar la coordinación, el control y la asignación de responsabilidades dentro de la organización.
+            p.ms-lg-5 Es la disposición ordenada de los niveles de autoridad dentro de una unidad administrativa. Establece quién dirige, supervisa y toma decisiones, así como las relaciones de dependencia entre los diferentes cargos y áreas. Su propósito es facilitar la coordinación, el control y la asignación de responsabilidades dentro de la organización.
           div(titulo="Funciones")
-            p.ms-5 Corresponden al conjunto de actividades, tareas y responsabilidades asignadas a cada cargo o área dentro de la unidad administrativa. Estas permiten distribuir el trabajo de manera organizada y asegurar el cumplimiento de los objetivos institucionales. 
+            p.ms-lg-5 Corresponden al conjunto de actividades, tareas y responsabilidades asignadas a cada cargo o área dentro de la unidad administrativa. Estas permiten distribuir el trabajo de manera organizada y asegurar el cumplimiento de los objetivos institucionales. 
           div(titulo="Responsabilidad")
-            p.ms-5 Es el compromiso que asumen las personas o áreas para cumplir las funciones asignadas y responder por los resultados obtenidos. Implica actuar de manera ética, eficiente y conforme a las políticas y objetivos de la organización. 
+            p.ms-lg-5 Es el compromiso que asumen las personas o áreas para cumplir las funciones asignadas y responder por los resultados obtenidos. Implica actuar de manera ética, eficiente y conforme a las políticas y objetivos de la organización. 
           div(titulo="Comunicación")
-            p.ms-5 Es el proceso mediante el cual se intercambia información entre las personas, áreas y niveles jerárquicos de la organización. Permite coordinar actividades, transmitir instrucciones, compartir conocimientos y facilitar la toma de decisiones.
+            p.ms-lg-5 Es el proceso mediante el cual se intercambia información entre las personas, áreas y niveles jerárquicos de la organización. Permite coordinar actividades, transmitir instrucciones, compartir conocimientos y facilitar la toma de decisiones.
 
     .cajon.color-acento-botones.p-4.mb-4
       p.mb-0 Empresas como Bancolombia utilizan estructuras organizacionales mixtas que combinan jerarquía con trabajo colaborativo, facilitando la innovación y la eficiencia operativa.

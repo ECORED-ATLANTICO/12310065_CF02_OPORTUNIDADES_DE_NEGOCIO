@@ -78,11 +78,12 @@ figcaption, table caption
     position: absolute
     content: url('../assets/curso/common/bg-1.png')
 
-  // &--2::after
-  //   top: 100px
-  //   left: -50px
-  //   position: absolute
-  //   content: url('../assets/curso/common/bg-2.png')
+  &--2::after
+    @media (min-width: $bp-min-xl)
+      top: 0px
+      left: -50px
+      position: absolute
+      content: url('../assets/curso/common/bg-1.png')
 
 .w-55
   max-width: 55px
@@ -90,6 +91,7 @@ figcaption, table caption
   max-width: 85px
 .w-195
   max-width: 195px
+  margin: 0 auto
 
 .z-2
   z-index: 2
@@ -123,7 +125,7 @@ figcaption, table caption
   background-color: #CDD5F2
   border: #CDD5F2
 .slyder-a__bullets__item--active
-  background-color: #6F88DA
+  background-color: $color-secundario
 .slyder-a__btn--atrs, .slyder-a__btn--sigt
   background-color: #FFD256
 .slyder-a__bullets__item

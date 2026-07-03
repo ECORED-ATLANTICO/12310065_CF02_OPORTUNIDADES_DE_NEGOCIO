@@ -162,10 +162,10 @@
               img.w-55(data-aos="fade-down", src="@/assets/curso/tema1/9.svg", alt="")
           .col-lg-11.col-xl-10
             p.mb-0 En una tienda de artesanías, el uso de hojas de cálculo permite controlar inventarios, mientras que sistemas digitales facilitan el registro de ventas y el análisis del comportamiento del cliente.
-        p.mb-0 Entre los beneficios de las herramientas TIC están: 
+        p.mb-4.mb-lg-0 Entre los beneficios de las herramientas TIC están: 
       .col-lg-5
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema7/7.png", alt="")
+          img(data-aos="fade-down", src="@/assets/curso/tema7/7.png", alt="")
 
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5

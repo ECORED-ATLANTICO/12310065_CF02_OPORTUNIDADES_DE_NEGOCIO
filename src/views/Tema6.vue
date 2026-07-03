@@ -27,10 +27,10 @@
         p.mb-0 El plan de negocio es un documento estructurado que describe de manera integral una idea empresarial, incluyendo sus objetivos, estrategias, recursos, mercado objetivo y proyecciones financieras. Su propósito es servir como guía para la implementación y desarrollo del negocio.
 
     .row.justify-content-center.align-items-center.z-2
-      .col-lg-8
+      .col-lg-6
         p Desde una perspectiva técnica, el plan de negocio permite evaluar la viabilidad del proyecto, identificar riesgos y oportunidades, y establecer un modelo de operación sostenible. Además, es una herramienta clave para la búsqueda de inversión, ya que proporciona información clara y organizada sobre el proyecto.
         p.mb-4.mb-lg-0 En el entorno empresarial actual, el plan de negocio no solo se utiliza en la creación de empresas, sino también en la expansión de negocios existentes, permitiendo planificar nuevas estrategias y adaptarse a cambios del mercado.
-      .col-sm-8.col-lg-4
+      .col-sm-8.col-lg-6
         figure
           img(data-aos="fade-down", src="@/assets/curso/tema6/3.png", alt="")
 

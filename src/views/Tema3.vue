@@ -34,6 +34,9 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema3/3.png", alt="")
 
+    .cajon.color-acento-botones.p-4.mb-4
+      p.mb-0 En el contexto empresarial, la gestión adecuada de procesos y procedimientos permite mejorar la productividad, reducir errores y optimizar el uso de recursos, especialmente cuando se integran herramientas tecnológicas como software de gestión empresarial. La diferenciación entre proceso y procedimiento permite estructurar la gestión empresarial, garantizando eficiencia, control y estandarización.
+
     .row.align-items-center.z-2.bg-img.rounded-4.p-4.mb-4
       .d-none.d-lg-block.col-lg-1
         figure
@@ -60,6 +63,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2 Clasificación
 
+    .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-sm-8.col-lg-4
         figure
