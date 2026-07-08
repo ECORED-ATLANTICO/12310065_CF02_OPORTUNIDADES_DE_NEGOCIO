@@ -227,8 +227,8 @@
             h5.text-white ¿Sabías qué?
             p.text-white Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-white.mb-3(
-              texto="“Charlas que venden” tema: “El uso de las TIC y herramientas ofimáticas en la gestión empresarial”"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="“El uso de las TIC y herramientas ofimáticas en la gestión empresarial”"
+              :audio="require('@/assets/podcasts/el-uso-de-las-TIC-y-herramientas-ofimaticas-en-la-gestion-empresarial.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
 
