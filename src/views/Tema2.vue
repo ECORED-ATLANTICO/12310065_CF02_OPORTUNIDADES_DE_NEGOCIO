@@ -23,7 +23,7 @@
       .col-lg-8
         p La estructura organizacional es el sistema formal mediante el cual se establecen las relaciones de autoridad, comunicación y responsabilidad dentro de una organización. Define cómo se agrupan las actividades, cómo se asignan las funciones y cómo fluye la información entre las diferentes áreas.
         .cajon.color-primario.p-4.mb-4.mb-lg-0
-          p.mb-0 Desde un enfoque administrativo, la estructura organizacional permite alinear los recursos humanos con los objetivos estratégicos, garantizando que cada unidad cumpla un rol específico dentro del sistema empresarial. Una estructura bien definida reduce la duplicidad de funciones, mejora la coordinación y facilita el control interno. En entornos empresariales actuales, las organizaciones adoptan estructuras más flexibles que favorecen la innovación, la adaptabilidad y el trabajo colaborativo, integrando herramientas tecnológicas como software de gestión y sistemas de business intelligence.
+          p.mb-0 Desde un enfoque administrativo, la estructura organizacional permite alinear los recursos humanos con los objetivos estratégicos, garantizando que cada unidad cumpla un rol específico dentro del sistema empresarial. Una estructura bien definida reduce la duplicidad de funciones, mejora la coordinación y facilita el control interno. En entornos empresariales actuales, las organizaciones adoptan estructuras más flexibles que favorecen la innovación, la adaptabilidad y el trabajo colaborativo, integrando herramientas tecnológicas como #[em software] de gestión y sistemas de #[em business intelligence].
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema2/2.png", alt="")
@@ -49,6 +49,8 @@
               a.boton.me-3.mb-4.text-center(href="https://panmore.com/apple-inc-organizational-structure-features-pros-cons" target="_blank")
                 span.texto-oscuro Abrir enlace
                 i.fas.fa-link.ms-2.texto-oscuro
+
+    p.mb-4.z-2 Elementos de la estructura organizacional
           
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-sm-10.col-lg-5
@@ -166,7 +168,7 @@
                 img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema2/7.png", alt="")
             .col-lg-7
               h5.my-3 La estructura organizacional
-              p.mb-2 Se invita al aprendiz a ir al video con el propósito de identificar:
+              p.mb-2 Se invita al aprendiz a revisar al siguiente enlace con el propósito de identificar:
               ul.lista-ul
                 li.mb-0 
                   i.lista-ul__vineta
@@ -183,7 +185,7 @@
 
             .col-sm-4.col-lg-3
               a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=NpsflJIWNIg" target="_blank")
-                span.texto-oscuro Ver video
+                span.texto-oscuro Enlace
                 i.fas.fa-video.ms-2.texto-oscuro
 
 </template>

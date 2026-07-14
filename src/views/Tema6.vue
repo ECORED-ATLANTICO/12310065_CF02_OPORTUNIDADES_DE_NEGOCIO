@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Información para la toma de decisiones
+      h1 Plan de negocio
 
     .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.align-items-center.z-2
@@ -51,7 +51,7 @@
           span Estructura básica del plan de negocios
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema6/5-mob.png", alt="La figura describe los seis componentes esenciales de un plan de negocios; los cales son: Resumen ejecutivo, que sintetiza la idea, objetivos y propuesta de valor. Análisis de mercado, que estudia clientes, competencia y entorno; Plan de marketing, que define estrategias comerciales; Plan operativo, que describe procesos, recursos y logística; Plan financiero, que evalúa inversión, costos, ingresos y rentabilidad; y Aspectos legales, que contemplan requisitos normativos y obligaciones jurídicas. Cada componente está identificado con un número e iconos representativos. El mensaje final destaca que un plan de negocios bien estructurado favorece el éxito empresarial.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema6/5.png", alt="La figura describe los seis componentes esenciales de un plan de negocios; los cales son: Resumen ejecutivo, que sintetiza la idea, objetivos y propuesta de valor. Análisis de mercado, que estudia clientes, competencia y entorno; Plan de marketing, que define estrategias comerciales; Plan operativo, que describe procesos, recursos y logística; Plan financiero, que evalúa inversión, costos, ingresos y rentabilidad; y Aspectos legales, que contemplan requisitos normativos y obligaciones jurídicas. Cada componente está identificado con un número e iconos representativos. El mensaje final destaca que un plan de negocios bien estructurado favorece el éxito empresarial.")
-        figcaption Nota. SENA, 2026. 
+        figcaption Nota. SENA, (2026). 
 
     .row.justify-content-center.z-2
       .col-xl-10
@@ -77,7 +77,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema6/6.png", alt="")
       .col-lg-6
-        p Este documento presenta un plan de negocio para Artecol SAS, una tienda de artesanías ubicada en el sector de La Candelaria, en Bogotá. La propuesta busca comercializar productos artesanales elaborados por comunidades colombianas, combinando un punto de venta físico con un canal digital de comercio electrónico. El proyecto está orientado principalmente a turistas nacionales e internacionales, así como a consumidores interesados en la cultura y las tradiciones del país. Su propuesta de valor se centra en la autenticidad de los productos, el fortalecimiento de la identidad cultural y la promoción del comercio justo.
+        p Este componente formativo presenta un caso práctico de un plan de negocio para Artecol SAS, una tienda de artesanías ubicada en el sector de La Candelaria, en Bogotá. El plan de negocio busca comercializar productos artesanales elaborados por comunidades colombianas, combinando un punto de venta físico con un canal digital de comercio electrónico. El proyecto está orientado principalmente a turistas nacionales e internacionales, así como a consumidores interesados en la cultura y las tradiciones del país. Su propuesta de valor se centra en la autenticidad de los productos, el fortalecimiento de la identidad cultural y la promoción del comercio justo.
 
     .row.justify-content-center.z-2.mb-4.mb-lg-5
       .col-xl-10
@@ -87,8 +87,8 @@
               figure
                 img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema6/7.png", alt="")
             .col-lg-7
-              h5.my-4 Artecol SAS tienda de artesanías en el centro histórico de Bogotá
-              p.mb-4 Utiliza la siguiente empresa como ejemplo para desarrollar un análisis DOFA e identificar los factores internos y externos que afectan su desempeño.
+              h5.my-4 Plan de negocio - Artecol SAS. 
+              p.mb-4 Lo invitamos descargar el siguiente documento, el cual explica de manera detalla los diferentes componentes de un plan de negocios. 
             .col-sm-4.col-lg-3
               a.boton.me-3.mb-4.text-center(:href="obtenerLink('/downloads/plan-de-negocio-Artecol-SAS.pdf')" target="_blank" type="application/pdf")
                 span.texto-oscuro Descargar PDF

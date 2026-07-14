@@ -35,7 +35,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema3/3.png", alt="")
 
     .cajon.color-acento-botones.p-4.mb-4
-      p.mb-0 En el contexto empresarial, la gestión adecuada de procesos y procedimientos permite mejorar la productividad, reducir errores y optimizar el uso de recursos, especialmente cuando se integran herramientas tecnológicas como software de gestión empresarial. La diferenciación entre proceso y procedimiento permite estructurar la gestión empresarial, garantizando eficiencia, control y estandarización.
+      p.mb-0 En el contexto empresarial, la gestión adecuada de procesos y procedimientos permite mejorar la productividad, reducir errores y optimizar el uso de recursos, especialmente cuando se integran herramientas tecnológicas como #[em software] de gestión empresarial. La diferenciación entre proceso y procedimiento permite estructurar la gestión empresarial, garantizando eficiencia, control y estandarización.
 
     .row.align-items-center.z-2.bg-img.rounded-4.p-4.mb-4
       .d-none.d-lg-block.col-lg-1
@@ -52,11 +52,11 @@
               figure
                 img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema2/7.png", alt="")
             .col-lg-7
-              h5.my-4 Diferencias entre Proceso y Procedimiento
-              p.mb-4 Se invita al aprendiz a ver el video con el propósito de identificar diferencias clave entre los términos fundamentales proceso y procedimiento y cómo se aplican en la operación y organización de una empresa. 
+              h5.my-4 Diferencias entre proceso y procedimiento
+              p.mb-4 Se invita a revisar el siguiente recurso, con el propósito de identificar diferencias clave entre los términos fundamentales proceso y procedimiento y cómo se aplican en la operación y organización de una empresa. 
             .col-sm-4.col-lg-3
               a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=ygKbmeD6sdg" target="_blank" type="application/pdf")
-                span.texto-oscuro Ver video
+                span.texto-oscuro Enlace
                 i.fas.fa-video.ms-2.texto-oscuro
 
     Separador
@@ -88,12 +88,12 @@
             tbody
               tr
                 td Estratégicos
-                td Definen la dirección y planificación
+                td Definen la dirección y planificación.
                 td Largo plazo
                 td Planeación estratégica
               tr
                 td Misionales
-                td Generan valor directo al cliente
+                td Generan valor directo al cliente.
                 td Operación principal
                 td Producción o ventas
               tr
@@ -136,7 +136,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema3/7.png", alt="")
       .col-lg-8
-        p En el contexto empresarial actual, las organizaciones utilizan herramientas tecnológicas como sistemas ERP y plataformas de business intelligence para gestionar y monitorear sus procesos en tiempo real, lo que permite identificar oportunidades de mejora y optimizar el desempeño.
+        p En el contexto empresarial actual, las organizaciones utilizan herramientas tecnológicas como sistemas ERP y plataformas de #[em business intelligence] para gestionar y monitorear sus procesos en tiempo real, lo que permite identificar oportunidades de mejora y optimizar el desempeño.
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Además, la aplicación de procedimientos claros facilita la capacitación del personal, asegura el cumplimiento de normas y mejora la experiencia del cliente. En McDonald’s, cada proceso operativo (preparación de alimentos, atención al cliente) está respaldado por procedimientos estandarizados que garantizan calidad y eficiencia en cualquier punto de venta.
 
@@ -144,7 +144,7 @@
     .row.justify-content-center.z-2.mb-5
       .col-xl-10
         figure
-          img(src="@/assets/curso/tema3/8.png", alt="", data-aos="fade-down-left")
+          img(src="@/assets/curso/tema3/8.png", alt="Captura de pantalla del sitio web oficial de McDonald's que muestra la ficha técnica de la Hamburguesa Clásica.", data-aos="fade-down-left")
 
     .row.align-items-center.z-2.bg-img.rounded-4.p-4.mb-4
       .d-none.d-lg-block.col-lg-1
@@ -153,12 +153,7 @@
       .col-lg-11.col-xl-10
         p.mb-0 Esta captura de pantalla del sitio web oficial de McDonald’s que muestra la ficha técnica de la Hamburguesa Clásica. A la izquierda, una imagen en alta resolución del producto ensamblado; a la derecha, el bloque de información que detalla el contenido calórico (250 Cal.) y el procedimiento de preparación, especificando el uso de carne 100 % de res condimentada con sal y pimienta, pepinillos, cebolla picada, ketchup y mostaza.
 
-    //- .row.justify-content-center.align-items-center.z-2
-    //-   .col-lg-8
-    //-     p.mb-0 La aplicabilidad de los procesos y procedimientos administrativos se evidencia en la estandarización de operaciones, la mejora continua y la satisfacción del cliente. Empresas líderes como McDonald’s implementan rigurosos procedimientos para garantizar consistencia en la calidad de sus productos y servicios a nivel global.
-    //-     .cajon.color-acento-botones.p-4.mb-4
-    //-       p.mb-0 La implementación efectiva de procesos y procedimientos administrativos contribuye al éxito organizacional, promoviendo eficiencia, control y competitividad en el mercado.
-
+    p.mb-4.z-2 Los beneficios de la aplicación de procesos administrativos permiten:
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-5.border-lg-end.border-secondary.mb-4

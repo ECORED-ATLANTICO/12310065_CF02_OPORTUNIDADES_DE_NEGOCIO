@@ -23,7 +23,7 @@ export default {
         '<b> Objetivo:</b> aplicar los conceptos de estructura organizacional, procesos administrativos, viabilidad y plan de negocio para la formulación y desarrollo de una idea de negocio en un contexto real. ',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,

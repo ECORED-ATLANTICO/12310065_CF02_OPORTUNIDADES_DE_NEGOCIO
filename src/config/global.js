@@ -156,7 +156,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Información para la toma de decisiones',
+        titulo: 'Plan de negocio',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -332,7 +332,7 @@ export default {
       referencia:
         'Alcaraz Rodríguez, R. (2011). <em>El emprendedor de éxito</em>.',
       link:
-        'https://apiperiodico.jalisco.gob.mx/api/sites/periodicooficial.jalisco.gob.mx/files/el_emprendedor_de_exito-_rafael_alcaraz_rodriguez.pdf',
+        'https://www.researchgate.net/publication/313747885_El_Emprendedor_de_Exito_-_Quinta_edicion',
     },
     {
       referencia:
@@ -373,7 +373,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales',
+            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
           centro: 'Centro Agroturistico - Regional Santander',
         },
         {

@@ -45,25 +45,6 @@
 
     p.mb-4 Las herramientas ofimáticas y TIC pueden clasificarse según su función dentro de la organización, lo que permite identificar su utilidad en diferentes procesos empresariales.
 
-    //- .row.justify-content-center.align-items-center.z-2.mb-4
-    //-   .col-sm-8.col-lg-4
-    //-     figure
-    //-       img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema7/4.png", alt="")
-    //-   .col-lg-8
-    //-     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-primario-p10")
-    //-       div(titulo=" Procesadores de texto")
-    //-         p.ms-5 Permiten crear, editar y dar formato a documentos escritos, facilitando la elaboración de informes, cartas y documentos empresariales.
-    //-       div(titulo="Hojas de cálculo")
-    //-         p.ms-5 Facilitan el análisis, organización y gestión de datos mediante fórmulas, tablas y gráficos, apoyando la toma de decisiones.
-    //-       div(titulo="Presentaciones")
-    //-         p.ms-5 Permiten comunicar información de manera visual y estructurada, apoyando exposiciones y procesos formativos o empresariales.
-    //-       div(titulo="Sistemas de gestión (<em>software</em>)")
-    //-         p.ms-5 Integran y automatizan procesos empresariales como ventas, inventarios, finanzas y recursos humanos en una sola plataforma.
-    //-       div(titulo="Herramientas de análisis")
-    //-         p.ms-5 Permiten interpretar grandes volúmenes de datos mediante indicadores, reportes y paneles de control (dashboards).
-    //-       div(titulo="Comunicación digital")
-    //-         p.ms-5 Facilitan la interacción y el intercambio de información en tiempo real dentro y fuera de la organización.
-
     .row.justify-content-center.z-2.mb-4.mb-lg-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
@@ -91,13 +72,13 @@
                 td(colspan="2") Permiten comunicar información de manera visual y estructurada, apoyando exposiciones y procesos formativos o empresariales.
                 td PowerPoint
               tr
-                td Sistemas de gestión (software)
+                td Sistemas de gestión (#[em software])
                 td(colspan="2") Integran y automatizan procesos empresariales como ventas, inventarios, finanzas y recursos humanos en una sola plataforma.
                 td ERP
               tr
                 td Herramientas de análisis
-                td(colspan="2") Permiten interpretar grandes volúmenes de datos mediante indicadores, reportes y paneles de control (dashboards).
-                td Business intelligence
+                td(colspan="2") Permiten interpretar grandes volúmenes de datos mediante indicadores, reportes y paneles de control (#[em dashboards]).
+                td #[em Business intelligence]
               tr
                 td Comunicación digital
                 td(colspan="2") Facilitan la interacción y el intercambio de información en tiempo real dentro y fuera de la organización.
@@ -208,10 +189,10 @@
                 img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema2/7.png", alt="")
             .col-lg-7
               h5.my-3 ¿Cómo beneficia la tecnología a mi negocio?
-              p.mb-2 Ir al siguiente video donde se explican el uso de herramientas TIC en la gestión empresarial y su impacto en la productividad. El video permite comprender cómo la tecnología optimiza procesos y mejora la toma de decisiones en las organizaciones:
+              p.mb-2 Se invita a explorar el siguiente video donde se explican el uso de herramientas TIC en la gestión empresarial y su impacto en la productividad. El video permite comprender cómo la tecnología optimiza procesos y mejora la toma de decisiones en las organizaciones:
             .col-sm-4.col-lg-3
               a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=u25nYLn3toE" target="_blank")
-                span.texto-oscuro Ver video
+                span.texto-oscuro Video
                 i.fas.fa-video.ms-2.texto-oscuro
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -225,7 +206,7 @@
               img.w-195(src="@/assets/curso/common/mic.png", alt="alt")
           .col-sm-8.col-lg-8
             h5.text-white ¿Sabías qué?
-            p.text-white Lo invitamos a escuchar el siguiente pódcast:
+            p.text-white Lo invitamos al siguiente pódcast:
             TarjetaAudio.color-white.mb-3(
               texto="“El uso de las TIC y herramientas ofimáticas en la gestión empresarial”"
               :audio="require('@/assets/podcasts/el-uso-de-las-TIC-y-herramientas-ofimaticas-en-la-gestion-empresarial.mp3')"

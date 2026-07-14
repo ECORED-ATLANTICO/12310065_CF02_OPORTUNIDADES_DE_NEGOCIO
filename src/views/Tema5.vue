@@ -107,7 +107,7 @@
         p.mb-0 Además, la viabilidad es clave en la formulación de planes de negocio, ya que proporciona información objetiva sobre el mercado, los costos, la competencia y las condiciones del entorno.
 
     .cajon.color-acento-botones.p-4.mb-4
-      p.mb-0 En Tesla, la viabilidad de vehículos eléctricos se analizó considerando factores técnicos (baterías), financieros (inversión) y comerciales (tendencia hacia energías limpias). El pantallazo evidencia cómo la empresa comunica los pilares de su viabilidad estratégica: 
+      p.mb-0 En Tesla, la viabilidad de vehículos eléctricos se analizó considerando factores técnicos (baterías), financieros (inversión) y comerciales (tendencia hacia energías limpias). Se evidencia cómo la empresa comunica los pilares de su viabilidad estratégica.
 
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -146,10 +146,10 @@
                 img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema2/7.png", alt="")
             .col-lg-7
               h5.my-3 Cómo evaluar la viabilidad de una idea de negocio utilizando la “matriz estrella”
-              p.mb-2 Ir al siguiente video que explica cómo evaluar la viabilidad de una idea de negocio utilizando la “matriz estrella”, analizando cinco dimensiones clave para reducir el riesgo de fracaso antes de invertir tiempo y dinero:
+              p.mb-2 Consulte el siguiente video que explica cómo evaluar la viabilidad de una idea de negocio utilizando la “matriz estrella”, analizando cinco dimensiones clave para reducir el riesgo de fracaso antes de invertir tiempo y dinero:
             .col-sm-4.col-lg-3
               a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=GbK-NGyTz9A" target="_blank")
-                span.texto-oscuro Ver video
+                span.texto-oscuro Video
                 i.fas.fa-video.ms-2.texto-oscuro
 
 

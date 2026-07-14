@@ -36,7 +36,7 @@
           span Unidad administrativa  
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/3-mob.png", alt="La figura describe la Unidad administrativa donde presenta su concepto, funcionamiento, importancia, aplicación y enfoque actual. La unidad administrativa es la estructura encargada de ejecutar actividades para cumplir los objetivos empresariales. Funciona mediante principios de especialización, coordinación y control. Dentro de la organización, integra áreas interdependientes que contribuyen a las metas corporativas. Su importancia radica en mejorar la eficiencia operativa, apoyar la toma de decisiones y favorecer la competitividad. En la práctica, comprende áreas como compras, logística, mercadeo y ventas. Actualmente, debe ser flexible, adaptable y orientada a resultados, apoyándose en tecnologías de gestión e inteligencia de negocios.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/3.png", alt="La figura describe la Unidad administrativa donde presenta su concepto, funcionamiento, importancia, aplicación y enfoque actual. La unidad administrativa es la estructura encargada de ejecutar actividades para cumplir los objetivos empresariales. Funciona mediante principios de especialización, coordinación y control. Dentro de la organización, integra áreas interdependientes que contribuyen a las metas corporativas. Su importancia radica en mejorar la eficiencia operativa, apoyar la toma de decisiones y favorecer la competitividad. En la práctica, comprende áreas como compras, logística, mercadeo y ventas. Actualmente, debe ser flexible, adaptable y orientada a resultados, apoyándose en tecnologías de gestión e inteligencia de negocios.")
-        figcaption Nota. Adaptada de Malhotra, (2008).
+        figcaption Nota. SENA, (2026).
 
     Separador
 
@@ -49,6 +49,8 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Las unidades administrativas pueden clasificarse según su función, nivel jerárquico y naturaleza operativa, lo que permite comprender su rol dentro de la organización y su impacto en la gestión empresarial.
+
+    p.mb-4.z-2 Clasificación de los mercados según su naturaleza y alcance 
 
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
@@ -103,11 +105,12 @@
       .col-lg-8
         p La estructura de una unidad administrativa hace referencia a la forma en que se organizan los recursos humanos, tecnológicos y materiales para cumplir funciones específicas. Esta estructura se define a través de jerarquías, líneas de autoridad y niveles de responsabilidad.
         .cajon.color-primario.p-4.mb-4
-          p.mb-0 Una estructura bien diseñada permite claridad en roles, evita conflictos organizacionales y mejora la eficiencia en la ejecución de procesos. En entornos empresariales, la estructura puede ser vertical (jerárquica), horizontal (colaborativa) o mixta, dependiendo del modelo de gestión adoptado. Elementos de la estructura administrativa 
+          p.mb-0 Una estructura bien diseñada permite claridad en roles, evita conflictos organizacionales y mejora la eficiencia en la ejecución de procesos. En entornos empresariales, la estructura puede ser vertical (jerárquica), horizontal (colaborativa) o mixta, dependiendo del modelo de gestión adoptado.
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema1/2.png", alt="")
     
+    p.mb-4.z-2 Elementos de la estructura administrativa
     .row.align-items-center.justify-content-center
       .col-sm-8.col-lg-4.mb-3.mb-lg-0.d-none.d-lg-block
         figure

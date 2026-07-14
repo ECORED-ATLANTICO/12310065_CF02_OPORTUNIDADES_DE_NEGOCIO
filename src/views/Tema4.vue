@@ -56,10 +56,10 @@
         figcaption Nota. SENA, (2026). 
 
     .row.justify-content-center.align-items-center.z-2.mb-4
-      .col-sm-10.col-lg-5
+      .col-sm-10.col-lg-6
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema4/5.png", alt="")
-      .col-lg-7
+          img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema4/5.png", alt="Captura de pantalla de la interfaz de Netflix que ilustra su modelo de negocio de contenido bajo demanda.")
+      .col-lg-6
         p.mb-0 Netflix transformó el consumo de entretenimiento al ofrecer contenido bajo demanda, demostrando innovación y escalabilidad. Las características de una idea de negocio determinan su capacidad de competir, crecer y mantenerse en el mercado. 
 
     .cajon.color-acento-botones.p-4
@@ -75,8 +75,9 @@
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema4/6.png", alt="")
       .col-lg-8
         p La formulación de una idea de negocio consiste en estructurarla de manera clara y organizada, definiendo sus elementos clave como el problema a resolver, la propuesta de valor, el segmento de mercado y los recursos necesarios.
-        p.mb-0 Este proceso implica transformar una idea inicial en una propuesta concreta, evaluando factores como el mercado objetivo, la competencia y las condiciones del entorno. Herramientas como el business model canvas permiten visualizar de forma integral los componentes del negocio.
+        p.mb-0 Este proceso implica transformar una idea inicial en una propuesta concreta, evaluando factores como el mercado objetivo, la competencia y las condiciones del entorno. Herramientas como el #[em business model canvas] permiten visualizar de forma integral los componentes del negocio.
 
+    p.mb-4.z-2 Elementos de la formulación de la idea de negocio
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
         SlyderA(tipo="b").bg-white.p-4.tarjeta
@@ -84,7 +85,7 @@
             .col-lg-7.mb-4.mb-lg-0
               h4 Problema
               p Necesidad o situación insatisfecha identificada en el mercado, que afecta a un grupo específico de personas y requiere una solución.
-              p.mb-0 #[strong Ejemplo]: falta de transporte eficiente en zonas urbanas	 
+              p.mb-0 #[strong Ejemplo]: falta de transporte eficiente en zonas urbanas.	 
             .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/tema4/7.png', alt='')
@@ -92,7 +93,7 @@
             .col-lg-7.mb-4.mb-lg-0
               h4 Solución
               p Propuesta de valor que responde al problema identificado mediante un producto o servicio innovador o mejorado.
-              p.mb-0 #[strong Ejemplo]: plataforma digital de movilidad	 	 
+              p.mb-0 #[strong Ejemplo]: plataforma digital de movilidad.
             .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/tema4/8.png', alt='')
@@ -108,7 +109,7 @@
             .col-lg-7.mb-4.mb-lg-0
               h4 Recursos
               p Conjunto de medios necesarios para desarrollar la idea de negocio, incluyendo recursos humanos, tecnológicos, financieros y materiales.
-              p.mb-0 #[strong Ejemplo]: tecnología, capital humano y plataformas digitales	 	 	 	 
+              p.mb-0 #[strong Ejemplo]: tecnología, capital humano y plataformas digitales. 	 	 	 
             .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/tema4/10.png', alt='')
@@ -151,7 +152,7 @@
                 img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema2/7.png", alt="")
             .col-lg-7
               h5.my-3 Innovación, creatividad y emprendimiento - Introducción
-              p.mb-2 Ir al siguiente video donde con el propósito de identificar:
+              p.mb-2 Consulte el siguiente video con el propósito de identificar:
               ul.lista-ul
                 li.mb-0 
                   i.lista-ul__vineta
@@ -168,7 +169,7 @@
 
             .col-sm-4.col-lg-3
               a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=Zz9pbQKcgcE" target="_blank")
-                span.texto-oscuro Ver video
+                span.texto-oscuro Video
                 i.fas.fa-video.ms-2.texto-oscuro
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -182,7 +183,7 @@
               img.w-195(src="@/assets/curso/common/mic.png", alt="alt")
           .col-sm-8.col-lg-8
             h5.text-white ¿Sabías qué?
-            p.text-white Lo invitamos a escuchar el siguiente pódcast:
+            p.text-white Lo invitamos al siguiente pódcast:
             TarjetaAudio.color-white.mb-3(
               texto="“La idea de negocio como base del desarrollo empresarial”"
               :audio="require('@/assets/podcasts/idea-de-negocio-como-base-del-desarrollo-empresarial.mp3')"
