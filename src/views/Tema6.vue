@@ -72,13 +72,14 @@
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.3 Ejemplo
 
-    .row.justify-content-center.align-items-center.z-2.mb-5
+    .row.justify-content-center.align-items-center.z-2.mb-4
       .col-sm-12.col-lg-6
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema6/6.png", alt="")
       .col-lg-6
         p Este componente formativo presenta un caso práctico de un plan de negocio para Artecol SAS, una tienda de artesanías ubicada en el sector de La Candelaria, en Bogotá. El plan de negocio busca comercializar productos artesanales elaborados por comunidades colombianas, combinando un punto de venta físico con un canal digital de comercio electrónico. El proyecto está orientado principalmente a turistas nacionales e internacionales, así como a consumidores interesados en la cultura y las tradiciones del país. Su propuesta de valor se centra en la autenticidad de los productos, el fortalecimiento de la identidad cultural y la promoción del comercio justo.
 
+    p.mb-4.mb-lg-5.z-2 El documento integra los principales componentes que hacen viable una oportunidad de negocio, como el análisis del mercado, la propuesta de valor, las estrategias de #[em marketing], el plan operativo, el análisis financiero y los aspectos legales, demostrando cómo estos elementos se relacionan para tomar decisiones empresariales fundamentadas.
     .row.justify-content-center.z-2.mb-4.mb-lg-5
       .col-xl-10
         .p-3.py-1.bg-primario-p10.rounded-4

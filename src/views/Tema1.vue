@@ -50,7 +50,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Las unidades administrativas pueden clasificarse según su función, nivel jerárquico y naturaleza operativa, lo que permite comprender su rol dentro de la organización y su impacto en la gestión empresarial.
 
-    p.mb-4.z-2 Clasificación de los mercados según su naturaleza y alcance 
+    p.mb-4.z-2 #[strong Clasificación de las unidades administrativas]
 
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5

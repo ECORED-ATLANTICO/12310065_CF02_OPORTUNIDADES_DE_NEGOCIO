@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Análisis y evaluación de negocio',
+    Name: 'Identificación y aplicación de negocio',
     Description:
-      'El componente formativo aborda el estudio del mercado, el entorno y las variables que influyen en la generación y validación de ideas de negocio. Analiza elementos como el comportamiento del mercado, la segmentación, el entorno económico y las dinámicas de oferta y demanda, con el propósito de identificar oportunidades y evaluar la viabilidad de propuestas comerciales orientadas a la toma de decisiones.',
+      'El componente formativo aborda la estructuración organizacional, administrativa y operativa de una idea de negocio orientada a su puesta en marcha. Analiza la unidad administrativa, la estructura organizacional, los procesos y la formulación de ideas con enfoque en innovación y emprendimiento. Además, desarrolla criterios de viabilidad y el plan de negocio, integrando herramientas tecnológicas para la gestión y presentación de la información empresarial.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -231,7 +231,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/12310065_CF02_DU.zip',
       },
       {
         icono: 'fas fa-download',

@@ -1,1 +1,1 @@
-module.exports = 'Análisis y evaluación de negocio'
+module.exports = 'Identificación y aplicación de negocio'
