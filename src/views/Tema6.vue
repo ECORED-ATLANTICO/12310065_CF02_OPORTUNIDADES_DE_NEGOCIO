@@ -61,8 +61,8 @@
               figure
                 img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema2/7.png", alt="")
             .col-lg-7
-              h5.my-3 Cómo evaluar la viabilidad de una idea de negocio utilizando la “matriz estrella”
-              p.mb-3 Ir al siguiente video que explica cómo evaluar la viabilidad de una idea de negocio utilizando la “matriz estrella”, analizando cinco dimensiones clave para reducir el riesgo de fracaso antes de invertir tiempo y dinero:
+              h5.my-3 ¿Cómo hacer un plan de negocio? 
+              p.mb-3 Ir al siguiente video que explica que el plan de negocio funciona como una guía estratégica que define el funcionamiento, los recursos y las fuentes de ingreso de una empresa, permitiendo estructurar de manera clara una idea empresarial y facilitar su desarrollo: 
             .col-sm-4.col-lg-3
               a.boton.me-3.mb-4.text-center(href="https://www.youtube.com/watch?v=tTvfzqu422w" target="_blank")
                 span.texto-oscuro Ver video
