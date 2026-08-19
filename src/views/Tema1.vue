@@ -50,7 +50,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Las unidades administrativas pueden clasificarse según su función, nivel jerárquico y naturaleza operativa, lo que permite comprender su rol dentro de la organización y su impacto en la gestión empresarial.
 
-    p.mb-4.z-2 #[strong Clasificación de las unidades administrativas]
+    p.mb-4.z-2 #[strong Clasificación de las unidades administrativas]:
 
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
@@ -110,7 +110,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema1/2.png", alt="")
     
-    p.mb-4.z-2 Elementos de la estructura administrativa
+    p.mb-4.z-2 Elementos de la estructura administrativa:
     .row.align-items-center.justify-content-center
       .col-sm-8.col-lg-4.mb-3.mb-lg-0.d-none.d-lg-block
         figure

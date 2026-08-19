@@ -17,7 +17,7 @@
               img.mb-4.mb-lg-0(src="@/assets/curso/introduccion/1.png" alt="")
           .col-lg-7
             .p-4.bg-acento-a10
-              p.mb-0 El componente formativo Identificación y aplicación de negocio se orienta al desarrollo de competencias relacionadas con la estructuración y puesta en marcha de ideas de negocio en contextos reales. En este sentido, se abordan elementos fundamentales como la organización administrativa, la definición de procesos y la formulación de propuestas empresariales con enfoque innovador.
+              p.mb-0 El componente formativo #[strong Identificación y aplicación de negocio] se orienta al desarrollo de competencias relacionadas con la estructuración y puesta en marcha de ideas de negocio en contextos reales. En este sentido, se abordan elementos fundamentales como la organización administrativa, la definición de procesos y la formulación de propuestas empresariales con enfoque innovador.
         .p-4.bg-primario-p10
           p.mb-0 A través del desarrollo temático, el aprendiz comprenderá la importancia de diseñar estructuras organizacionales eficientes, establecer procedimientos claros y evaluar la viabilidad de una idea de negocio antes de su implementación. 
       .col-sm-6.col-lg-3.d-none.d-xl-block

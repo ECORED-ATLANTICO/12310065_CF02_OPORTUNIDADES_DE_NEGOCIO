@@ -43,14 +43,14 @@
               figure
                 img.mb-4.mb-lg-0(data-aos="fade-down", src="@/assets/curso/tema2/3.png", alt="")
             .col-lg-7
-              h5 #[em Apple’s Organizational Structure & Its Characteristics (An Analysis)]
+              h5 Cómo la estructura organizativa de Apple impulsa la innovación y el éxito
               p.mb-4.mb-lg-0 Para profundizar en la aplicación real de la estructura organizacional en empresas globales (Apple), se invita al aprendiz a consultar el siguiente recurso:
             .col-sm-4.col-lg-3
-              a.boton.me-3.mb-4.text-center(href="https://panmore.com/apple-inc-organizational-structure-features-pros-cons" target="_blank")
+              a.boton.me-3.mb-4.text-center(href="https://edraw.wondershare.es/org-chart/apple-organizational-structure.html" target="_blank")
                 span.texto-oscuro Abrir enlace
                 i.fas.fa-link.ms-2.texto-oscuro
 
-    p.mb-4.z-2 Elementos de la estructura organizacional
+    p.mb-4.z-2 Elementos de la estructura organizacional:
           
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-sm-10.col-lg-5

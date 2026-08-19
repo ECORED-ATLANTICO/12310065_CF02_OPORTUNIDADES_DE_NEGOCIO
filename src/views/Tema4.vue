@@ -77,7 +77,7 @@
         p La formulación de una idea de negocio consiste en estructurarla de manera clara y organizada, definiendo sus elementos clave como el problema a resolver, la propuesta de valor, el segmento de mercado y los recursos necesarios.
         p.mb-0 Este proceso implica transformar una idea inicial en una propuesta concreta, evaluando factores como el mercado objetivo, la competencia y las condiciones del entorno. Herramientas como el #[em business model canvas] permiten visualizar de forma integral los componentes del negocio.
 
-    p.mb-4.z-2 Elementos de la formulación de la idea de negocio
+    p.mb-4.z-2 Elementos de la formulación de la idea de negocio:
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
         SlyderA(tipo="b").bg-white.p-4.tarjeta

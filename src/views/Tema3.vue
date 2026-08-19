@@ -141,10 +141,13 @@
           p.mb-0 Además, la aplicación de procedimientos claros facilita la capacitación del personal, asegura el cumplimiento de normas y mejora la experiencia del cliente. En McDonald’s, cada proceso operativo (preparación de alimentos, atención al cliente) está respaldado por procedimientos estandarizados que garantizan calidad y eficiencia en cualquier punto de venta.
 
     .fullwidth-bg.fullwidth-bg--1
-    .row.justify-content-center.z-2.mb-5
+    .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10
-        figure
-          img(src="@/assets/curso/tema3/8.png", alt="Captura de pantalla del sitio web oficial de McDonald's que muestra la ficha técnica de la Hamburguesa Clásica.", data-aos="fade-down-left")
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 3.
+          span Ficha técnica de hamburguesa clásica de McDonald´s 
+        img.mb-2(data-aos="fade-up", src="@/assets/curso/tema3/8.png", alt="Captura de pantalla del sitio web oficial de McDonald's que muestra la ficha técnica de la Hamburguesa Clásica.")
+        figcaption Nota. SENA, (2026).
 
     .row.align-items-center.z-2.bg-img.rounded-4.p-4.mb-4
       .d-none.d-lg-block.col-lg-1
