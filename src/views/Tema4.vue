@@ -49,7 +49,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 3.
+          h5 Figura 4.
           span Idea de negocio: características clave 
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/4-mob.png", alt="La figura describe las características clave de una idea de negocio, las cuales están representadas como un proceso de cinco etapas. Explica que una idea de negocio debe ser innovadora, aportando valor y diferenciación; viable, al poder ejecutarse con recursos humanos, técnicos y financieros disponibles; rentable, generando beneficios económicos sostenibles; escalable, permitiendo crecer en el mercado sin aumentar proporcionalmente los costos; y pertinente, al responder a necesidades reales de los clientes o del entorno. Cada etapa está identificada con un número, un icono representativo y una flecha que muestra la secuencia del proceso.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/4.png", alt="La figura describe las características clave de una idea de negocio, las cuales están representadas como un proceso de cinco etapas. Explica que una idea de negocio debe ser innovadora, aportando valor y diferenciación; viable, al poder ejecutarse con recursos humanos, técnicos y financieros disponibles; rentable, generando beneficios económicos sostenibles; escalable, permitiendo crecer en el mercado sin aumentar proporcionalmente los costos; y pertinente, al responder a necesidades reales de los clientes o del entorno. Cada etapa está identificada con un número, un icono representativo y una flecha que muestra la secuencia del proceso.")
