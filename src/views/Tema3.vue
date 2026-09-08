@@ -147,7 +147,7 @@
           h5 Figura 3.
           span Ficha técnica de hamburguesa clásica de McDonald´s 
         img.mb-2(data-aos="fade-up", src="@/assets/curso/tema3/8.png", alt="La figura muestra la ficha técnica de hamburguesa clásica de McDonald’s de 250 calorías y elaborada con carne de res, pepinillos, cebolla, kétchup y mostaza en un pan regular. La página muestra una fotografía del producto y complementa sus características con información sobre sus ingredientes y diferencias frente a otras hamburguesas. También presenta opciones para localizar restaurantes cercanos y realizar pedidos mediante los servicios digitales de McDonald’s.")
-        figcaption Nota. SENA, (2026).
+        figcaption Nota. Captura de pantalla de la página principal de McDonald’s, por McDonald’s, 2026, https://www.mcdonalds.com/us/en-us.html  
 
     .row.align-items-center.z-2.bg-img.rounded-4.p-4.mb-4
       .d-none.d-lg-block.col-lg-1
