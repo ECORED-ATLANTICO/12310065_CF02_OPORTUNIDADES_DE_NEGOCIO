@@ -365,6 +365,11 @@ export default {
         'Universidad del Valle de Atemajac. (s. f.). <em>Emprendimiento e innovación</em>.',
       link: 'https://biblioteca.univa.mx/Investigacion/Libros/113815.pdf',
     },
+    {
+      referencia:
+        'McDonald’s. (2026). <em>McDonald’s: Burgers, fries & more. Quality ingredients.</em> ',
+      link: 'https://www.mcdonalds.com/us/en-us.html',
+    },
   ],
   creditos: [
     {
